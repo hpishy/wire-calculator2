@@ -1,0 +1,21 @@
+{
+  "name": "حاسبة السلك",
+  "short_name": "حاسبة السلك",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#1E88E5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
